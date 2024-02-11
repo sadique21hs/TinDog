@@ -3,13 +3,24 @@ body{
 }
 
 #title{
-    background-color: #ff4c68;
+    text-align: left;
 }
 
 
 .container-fluid{
     padding: 3% 15%;
 }
+
+/*section*/
+.color-section{
+    background-color: #ff4c68;
+    color: #fff;
+}
+.white-section{
+   background-color: #fff;
+
+}
+
 
 
 h1{
@@ -31,9 +42,7 @@ p{
 }
 
 
-.headding-text{
-    
-}
+/*navigation bar*/
 
 
 .navbar{
@@ -91,7 +100,7 @@ p{
     padding: 7% 15%;
     text-align: center;
     background-color: #ef8172 ;
-    color: white;
+   
     
 }
 .testimonial-image{
@@ -116,8 +125,7 @@ margin: 20px;
 
 /* Call to Action */
 #cta{
-    background-color: #ff4c68;
-    color: #fff;
+  
     
     padding: 7% 15%;
     text-align: center;
