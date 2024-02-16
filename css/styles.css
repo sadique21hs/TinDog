@@ -119,8 +119,11 @@ margin: 20px;
 
 }
 #pricing{
-    padding: 7% 15%;
+   
     text-align: center;
+}
+.carousel-item{
+     padding: 7% 15%;
 }
 
 /* Call to Action */
