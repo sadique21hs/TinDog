@@ -39,4 +39,4 @@ Open the index.html file in your preferred web browser.
 Contributions are welcome! If you have suggestions for improvements, or new features to add, or if you find any issues, please feel free to open an issue or create a pull request.
 
 ## Contact
-If you have any questions or feedback, you can reach out to me via email at sadique21.hossain@example.com.
+If you have any questions or feedback, you can reach out to me via email at sadique21.hossain@gmail.com.
