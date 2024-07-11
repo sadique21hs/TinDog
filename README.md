@@ -28,7 +28,7 @@ To view the TinDog website locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sadique21hs/TinDog.git
+   https://github.com/sadique21hs/TinDog.git
 
 
 Navigate to the project directory:
